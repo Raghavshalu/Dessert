@@ -1,0 +1,191 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:rgba(233, 205, 49, 0.596)
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.Navbar{
+  background-color: brown;
+  display: flex;
+  margin: 2px;
+  padding: 5px 10px;
+  color: white;
+  height: 50px;
+  border-radius: 10px
+}
+h1{
+  font-size: 18px;
+  font-weight: bold;
+}
+.Navbar .Links{
+  margin-left: auto;
+}
+/* .Home:hover{
+  color: pink;
+  cursor:pointer;
+}
+.Contact:hover{
+  color: pink;
+  cursor:pointer;
+} */
+/* .link_dessert{
+  padding: 15px;
+  color: white;
+  text-decoration: none;
+} */
+.search{
+  background-color: #dc030f;
+  border: 1px solid #dc030f;
+  color: white;
+  padding: 0.8rem 1.2rem;
+  border-radius: 2px;
+  font-size: 15px;
+  letter-spacing: 1px;
+}
+.input{
+  background-color: white;
+  width: 90%;
+  height: 60px;
+  position: relative;
+}
+.desserts{
+  display: inline-flex;
+}
+.one{
+  border-radius: 9px;
+  height: 200px;
+  width: 200px;
+  background-image: url("./Images/Brownie.jpg");
+  background-repeat: no-repeat;
+}
+.two{
+  border-radius: 9px;
+  height: 200px;
+  width: 200px;
+  background-image: url("./Images/Chocolate.jpg");
+  background-repeat: no-repeat;
+}
+.three{
+  border-radius: 9px;
+  height: 200px;
+  width: 200px;
+  background-image: url("./Images/Lemon.jpg");
+  background-repeat: no-repeat;
+}
+.four{
+  border-radius: 9px;
+  height: 200px;
+  width: 200px;
+  background-image: url("./Images/Macroon.jpg");
+  background-repeat: no-repeat;
+}
+.five{
+  border-radius: 9px;
+  height: 200px;
+  width: 200px;
+  background-image: url("./Images/Truffle.jpg");
+  background-repeat: no-repeat;
+}
+.six{
+  border-radius: 9px;
+  height: 200px;
+  width: 200px;
+  background-image: url("./Images/Velvet.jpg");
+  background-repeat: no-repeat;
+}
+.yummy{
+  background-color: #F9A981;
+  border: 5px white solid;
+  border-radius: 10px;
+  height: 100%;
+  width: 100%;
+  margin: 20px;
+  padding: 4px 20px;
+}
+p{
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  color: brown;
+}
+.order{
+  font-size: 50px;
+  font-weight: 100;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.dessert_name{
+font-weight: 500;
+margin: 10px;
+}
+.dessert_picture{
+  font-weight: 500;
+  margin: 10px;
+}
+.input{
+  margin: 10px;
+  width: 50%;
+  height: 30px;
+  padding: 5px;
+}
+.submit{
+  color: white;
+  background-color: #00b7ff;
+  border: #00b7ff;
+  padding: 5px 10px;
+  border-radius: 7px;
+  font-size: 15px;
+}
+form{
+  color: white;
+  }
+.ingredient{
+  border: solid 2px hsl(51, 87%, 50%);
+  margin: 10px 300px;
+  padding: 50px 0;
+  background-color:#F9A981;
+  border-radius: 50%;
+  box-shadow: 5px 10px 8px 10px #888888;
+  animation: heading 5s infinite;
+}
+.ingredient h1{
+  font-family: cursive;
+}
+@keyframes heading {
+  0% {background-color: #F9A981;}
+  25% {background-color: rgb(206, 96, 96);}
+  50% {background-color: #F9A981;}
+  75% {background-color: rgb(206, 113, 159);}
+  100% {background-color: hsl(20, 60%, 58%);}
+}
+.ingredient p{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.touchin{
+  background: url('https://st.depositphotos.com/1172692/4715/v/950/depositphotos_47156479-stock-illustration-seamless-vector-pattern-or-tile.jpg');
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ .para{
+  background-color: white;
+  width: 50%;
+  height: 70px;
+  position: relative;
+}
+.button1{
+  background-color: #dc030f;
+  border: 1px solid #dc030f;
+  color: white;
+  padding: 0.8rem 1.2rem;
+  border-radius: 2px;
+  font-size: 15px;
+  letter-spacing: 1px;
+}

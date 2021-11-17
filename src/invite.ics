@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20211116T180000
+DTEND;TZID=Asia/Kolkata:20211123T190000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20211123T182959Z;BYDAY=FR,MO,SA,SU,TH,TU,WE
+DTSTAMP:20211116T115128Z
+ORGANIZER;CN=sessionmoderation@gmail.com:mailto:sessionmoderation@gmail.com
+UID:3dj4bsltubcttp7ocdstfcchaf@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=shalinirag.1126@gmail.com;X-NUM-GUESTS=0:mailto:shalinirag.1126@gma
+ il.com
+X-MICROSOFT-CDO-OWNERAPPTID:1431799401
+CREATED:20211116T114653Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/yix-unvd-uix\n\n
+ View your event at https://calendar.google.com/calendar/event?action=VIEW&e
+ id=M2RqNGJzbHR1YmN0dHA3b2Nkc3RmY2NoYWYgc2hhbGluaXJhZy4xMTI2QG0&tok=Mjcjc2Vz
+ c2lvbm1vZGVyYXRpb25AZ21haWwuY29tMDMyOTE0NDRkNzViNzUzZWQ1YTg0YWM5MWU4YTcwNTM
+ 1YTNkMTE2OQ&ctz=Asia%2FKolkata&hl=en_GB&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20211116T115125Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:EOP B-13 Course - Java
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
