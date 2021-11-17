@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dessert/static/css/main.b9dcda78.chunk.css",
+    "main.js": "/Dessert/static/js/main.6b5bb0f3.chunk.js",
+    "main.js.map": "/Dessert/static/js/main.6b5bb0f3.chunk.js.map",
+    "runtime-main.js": "/Dessert/static/js/runtime-main.3134cb30.js",
+    "runtime-main.js.map": "/Dessert/static/js/runtime-main.3134cb30.js.map",
+    "static/js/2.9aea99fd.chunk.js": "/Dessert/static/js/2.9aea99fd.chunk.js",
+    "static/js/2.9aea99fd.chunk.js.map": "/Dessert/static/js/2.9aea99fd.chunk.js.map",
+    "static/js/3.9e187f59.chunk.js": "/Dessert/static/js/3.9e187f59.chunk.js",
+    "static/js/3.9e187f59.chunk.js.map": "/Dessert/static/js/3.9e187f59.chunk.js.map",
+    "index.html": "/Dessert/index.html",
+    "static/css/main.b9dcda78.chunk.css.map": "/Dessert/static/css/main.b9dcda78.chunk.css.map",
+    "static/js/2.9aea99fd.chunk.js.LICENSE.txt": "/Dessert/static/js/2.9aea99fd.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Dessert/static/media/Velvet.b6b70072.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3134cb30.js",
+    "static/js/2.9aea99fd.chunk.js",
+    "static/css/main.b9dcda78.chunk.css",
+    "static/js/main.6b5bb0f3.chunk.js"
+  ]
+}
